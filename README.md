@@ -10,4 +10,3 @@
 ```
 git@github.com:VeNDeTeT/Homework.git
 ```
-ц
